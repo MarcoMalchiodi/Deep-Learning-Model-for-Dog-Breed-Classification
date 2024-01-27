@@ -5,3 +5,7 @@ Deep learning neural network designed specifically for classifying dog breeds. L
 At its core, the model utilizes convolutional neural networks (CNNs) to extract intricate features from the input images. These features are then passed through multiple layers of densely connected neurons, allowing the model to learn complex patterns and relationships inherent in the diverse range of dog breeds.
 
 Through extensive experimentation and fine-tuning, the model achieves remarkable performance in breed classification tasks, accurately identifying breeds across various shapes, sizes, and colorations.
+
+
+Train and Test sets can be found at:
+https://www.kaggle.com/c/dog-breed-identification/data
